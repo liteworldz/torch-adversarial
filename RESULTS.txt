@@ -1,0 +1,12 @@
+
+
+
+## Pytorch Adversarial Training on CIFAR-10
+
+#### 2. PGD Adversarial Training
+
+Total benign test accuarcy: 84.13
+Total adversarial test Accuarcy: 45.97
+Total benign test loss: 53.282025665044785
+Total adversarial test loss: 240.22775197029114
+
